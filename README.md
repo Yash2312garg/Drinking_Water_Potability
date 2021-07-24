@@ -11,7 +11,7 @@ Let’s look at all the ways water impacts our lives…
 6. It helps to boost our energy levels
 7. water prevents overall dehydration
 
-**#roblem Statement**: Classify the water quality whether it is potable or not based on the features provided.
+**Problem Statement**: Classify the water quality whether it is potable or not based on the features provided.
 
 **Feature Details**
 **pH value**: PH is an important parameter in evaluating the acid–base balance of water. It is also the indicator of acidic or alkaline condition of water status. WHO has recommended maximum permissible limit of pH from 6.5 to 8.5. The current investigation ranges were 6.52–6.83 which are in the range of WHO standards.
